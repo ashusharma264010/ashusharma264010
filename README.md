@@ -9,8 +9,7 @@
 
 <br><br><br><br><br><br><br><br><br><br>
 
-
-
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ashusharma264010&theme=dark" alt="aghosh0605" /></p>
 ##
 - 📚 Currently pursuing B.sc in Data Science from IIT Madras & B.Tech in Computer Science from SRM IST Chennai 📚
 - I am Currently in need for research Collaborations 🔍
